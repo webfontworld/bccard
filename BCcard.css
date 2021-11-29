@@ -15,9 +15,9 @@
     font-style: normal;
     src: url('https://cdn.jsdelivr.net/gh/webfontworld/bccard/BCcardBold.eot');
     src: url('https://cdn.jsdelivr.net/gh/webfontworld/bccard/BCcardBold.eot?#iefix') format('embedded-opentype'),
-        url('https://cdn.jsdelivr.net/gh/webfontworld/bccard/BCcardBold.woff2') format('woff2'),
-        url('https://cdn.jsdelivr.net/gh/webfontworld/bccard/BCcardBold.woff') format('woff'),
-        url('https://cdn.jsdelivr.net/gh/webfontworld/bccard/BCcardBold.ttf') format("truetype");
+         url('https://cdn.jsdelivr.net/gh/webfontworld/bccard/BCcardBold.woff2') format('woff2'),
+         url('https://cdn.jsdelivr.net/gh/webfontworld/bccard/BCcardBold.woff') format('woff'),
+         url('https://cdn.jsdelivr.net/gh/webfontworld/bccard/BCcardBold.ttf') format("truetype");
     font-display: swap;
 }
 
