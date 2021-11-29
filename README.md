@@ -1,4 +1,8 @@
-# bcard
+# bccard
+
+<a href="https://wess.tistory.com/244" target="_blank">
+    <img src="https://webfontworld.github.io/bccard/BCcard.jpg" alt="BCcard" style="width:300px">
+</a>
 
 <pre>
 @font-face {
@@ -26,6 +30,11 @@
 </pre>
 
 # Paybooc
+
+<a href="https://wess.tistory.com/243" target="_blank">
+    <img src="https://webfontworld.github.io/bccard/Paybooc.jpg" alt="Paybooc" style="width:300px">
+</a>
+
 <pre>
 @font-face {
     font-family: 'Paybooc';
